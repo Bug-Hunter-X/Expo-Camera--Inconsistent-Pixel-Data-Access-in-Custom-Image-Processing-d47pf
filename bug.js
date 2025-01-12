@@ -1,0 +1,1 @@
+This bug occurs when using the Expo Camera API with custom image processing. The issue arises when attempting to access pixel data from a captured image, resulting in an unexpected error or incorrect data. The error is not consistently reproducible and might be tied to specific device configurations or image characteristics.
